@@ -34,4 +34,4 @@ int odd(int number) {
     return 0; // The return value here is not necessary, but it's included for consistency
 }
 
-// Github: Beastwaleed
+// Github: BeastWaleed
